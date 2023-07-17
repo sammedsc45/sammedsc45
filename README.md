@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sammedsc45
-- 👀 I’m interested in {;}
+- 👀 I’m interested in Web Dev. & App Dev.
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on {;}
 - 📫 How to reach me sammedchougule321@gmail.com
