@@ -8,11 +8,11 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʏ ᴛʜᴇʀᴇ! ɪ'ᴍ ꜱᴀᴍᴍᴇᴅ!
-*Passionate Developer | Web & App Enthusiast*
+*Passionate Developer | Web & App Dev Enthusiast*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Welcome to my GitHub! I'm a **Full Stack Developer** eager to learn, build, and contribute to impactful projects. My mission is to create efficient, user-friendly applications while staying updated on the latest tech trends.</p>
+<p align="left">Welcome to my GitHub! I'm a Full Stack Developer eager to learn, build, and contribute to impactful projects. My mission is to create efficient, user-friendly applications while staying updated on the latest tech trends.</p>
 
 - 🌱 **Learning**: Currently focusing on **Full Stack Development** with JavaScript/TypeScript frameworks like **React.js**, **Node.js**, and **MongoDB**.
 - 🚀 **Working On**: Building seamless web interfaces and dynamic applications that balance performance and design.
