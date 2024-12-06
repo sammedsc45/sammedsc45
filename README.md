@@ -1,5 +1,5 @@
 <!--Banner-->
-![Sammed Chougule Banner Image](https://github.com/sammedsc45/sammedsc45/blob/main/banner.png)
+![Sammed Chougule Banner Image](https://github.com/sammedsc45/sammedsc45/blob/main/Sam_Banner.png)
 
 <!--Night Owl image-->
 <div>
