@@ -103,7 +103,7 @@
 </a>
 
 <a href="https://x.com/SammedC94865641" target="_blank">
-<img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 </div>
 
