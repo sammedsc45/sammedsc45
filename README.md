@@ -85,8 +85,9 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Cory%20House&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&theme=dark&bg_color=0e2439&author_color=ffcc30">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sammed%20Chougule&quote=Great%20code%20isn%E2%80%99t%20just%20written%2C%20it%E2%80%99s%20crafted%20with%20purpose%2C%20passion%2C%20and%20a%20desire%20to%20create%20something%20meaningful.&theme=dark&bg_color=0e2439&author_color=ffcc30">
 </p>
+
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
