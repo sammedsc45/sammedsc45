@@ -64,13 +64,14 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/sammedsc45">
-          <img align="center" src="https://streak-stats.demolab.com?user=sammedsc45&theme=radical" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammedsc45&theme=radical" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
 </table>
 <br />
+
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
