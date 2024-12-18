@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʏ ᴛʜᴇʀᴇ! ɪ'ᴍ ꜱᴀᴍᴍᴇᴅ!
-*Passionate Developer | Web & App Dev Enthusiast*
+*Passionate Full Stack Developer | Web & App Dev Enthusiast*
 <br /> 
 
 <!--Start Intro-->               
@@ -16,7 +16,7 @@
 
 - 🌱 **Learning**: Currently focusing on **Full Stack Development** with JavaScript/TypeScript frameworks like **React.js**, **Node.js**, and **MongoDB**.
 - 🚀 **Working On**: Building seamless web interfaces and dynamic applications that balance performance and design.
-- 💞️ **Collaborate With Me**: I’m open to collaborating on innovative projects that solve real-world problems.
+- 💞️ **Collaborate With Me**: I'm open to collaborating on innovative projects that solve real-world problems.
 - 🎯 **Aspiring**: To master modern tech stacks and contribute meaningfully to the software development community.
 - 📧 **Reach Out**: [sammedchougule321@gmail.com](mailto:sammedchougule321@gmail.com)
 
@@ -33,10 +33,9 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,nodejs,express,mongo,git,vscode,androidstudio,linux&perline=10"  />
+<img width="500px" src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,nodejs,express,mongo,git,vscode,androidstudio,linux&perline=10" />
 </p>
 <br />
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -47,31 +46,15 @@
 </p>
 <br />
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sammedsc45">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sammedsc45&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sammedsc45">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammedsc45&theme=radical" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+    <a href="https://github.com/sammedsc45">
+        <img src="https://github-readme-stats.vercel.app/api?username=sammedsc45&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    </a>
+</div>
 <br />
-
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;" />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -91,9 +74,7 @@
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
-
 <!--Contact Section--> 
-
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/sammed-chougule" target="_blank">
