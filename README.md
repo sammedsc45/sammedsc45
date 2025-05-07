@@ -33,7 +33,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2> 
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,nodejs,express,mongo,git,vscode,androidstudio,linux&perline=10" />
+<img width="500px" src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,nodejs,express,flask,mongo,git,docker,kubernetes,androidstudio,aws,linux&perline=10" />
 </p>
 <br />
 
