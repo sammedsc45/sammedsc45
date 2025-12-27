@@ -85,7 +85,7 @@
 - AWS cloud solutions and infrastructure planning
 
 **Previous Experience**
-- **VMware to OpenStack Migration**: Led infrastructure migration POC for large-scale deployments
+- **VMware to OpenStack Migration and AWS**: Led infrastructure migration POC for large-scale deployments
 - **4G/5G Lab Setup**: Designed and configured 4G/5G test environments for protocol validation
 - **RBAC POC Development**: Implemented role-based access control systems for infrastructure
 - **OpenStack Deployment**: Deployed and managed OpenStack on Dell enterprise servers
