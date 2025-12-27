@@ -8,37 +8,93 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʏ ᴛʜᴇʀᴇ! ɪ'ᴍ ꜱᴀᴍᴍᴇᴅ!
-*Passionate Full Stack Developer | Web & App Dev Enthusiast*
-<br /> 
+*Cloud Infrastructure Engineer | DevOps & SRE Specialist | 5G/4G Network Architect*
+<br />
 
-<!--Start Intro-->               
-<p align="left">Welcome to my GitHub! I'm a Full Stack Developer eager to learn, build, and contribute to impactful projects. My mission is to create efficient, user-friendly applications while staying updated on the latest tech trends.</p>
+<!--Start Intro-->
+<p align="left">Welcome to my GitHub! I'm a Cloud Infrastructure Engineer and DevOps specialist with a passion for designing scalable, resilient cloud architectures and optimizing network infrastructure. With hands-on expertise in AWS, OpenStack, Kubernetes, and 5G/4G telecommunications, I focus on building robust solutions that bridge cloud infrastructure and modern networking paradigms.</p>
 
-- 🌱 **Learning**: Currently focusing on **Full Stack Development** with JavaScript/TypeScript frameworks like **React.js**, **Node.js**, and **MongoDB**.
-- 🚀 **Working On**: Building seamless web interfaces and dynamic applications that balance performance and design.
-- 💞️ **Collaborate With Me**: I'm open to collaborating on innovative projects that solve real-world problems.
-- 🎯 **Aspiring**: To master modern tech stacks and contribute meaningfully to the software development community.
+- 🌱 **Learning**: Deepening expertise in **AWS certifications (CLF-C02, SAA, Developer Associate)**, **Kubernetes advanced patterns (CKA, CKAD)**, **5G RAN architecture**, and **Model Context Protocol with AI/LLM integration**
+- 🚀 **Working On**: Infrastructure-as-Code projects using **Terraform & CloudFormation**, **Kubernetes cluster orchestration**, **OpenStack deployments**, and **4G/5G network simulation labs**
+- 💞️ **Collaborate With Me**: Open to collaborating on cloud migration strategies, infrastructure automation, 5G testbed development, and open-source networking projects
+- 🎯 **Aspiring**: To architect enterprise-grade cloud infrastructures and contribute to next-generation telecom networks
 - 📧 **Reach Out**: [sammedchougule321@gmail.com](mailto:sammedchougule321@gmail.com)
 
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sammedsc45&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sammedsc45" />
+  <img src="https://komarev.com/ghpvc/?username=sammedsc45&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sammedsc45"/>
 </p>
 
 ---
 <br />
 
-<!--Languages and Tools Section-->       
-<h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2> 
+<!--Languages and Tools Section-->
+<h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ & Pʀᴏғᴇꜱꜱɪᴏɴᴀʟ Sᴋɪʟʟꜱ</h2>
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,nodejs,express,flask,mongo,git,docker,kubernetes,androidstudio,aws,linux&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=aws,kubernetes,docker,python,go,bash,terraform,git,linux,openstack,cassandra,redis,postgres&perline=13"/>
 </p>
 <br />
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+### **Core Competencies**
+
+**Cloud Platforms & Infrastructure**
+- ☁️ **AWS**: EC2, VPC, S3, CloudFormation, Lambda, Migration Hub, Auto Scaling, CloudWatch
+- ☁️ **OpenStack**: Deployment, configuration, and troubleshooting (Compute, Storage, Networking)
+- 🐳 **Container Orchestration**: Kubernetes (cluster setup, deployment, networking, advanced scheduling)
+- 🐳 **Containerization**: Docker, Docker Compose, container registry management
+
+**Networking & Telecommunications**
+- 📡 **5G/4G Networks**: RAN architecture, core network design, NSA/SA deployment models
+- 🔗 **Network Engineering**: VPNs, BGP, OSPF, SD-WAN, network protocols & telecommunications standards
+- 🔌 **Network Simulation**: 4G/5G lab setup, testing environments, protocol validation
+
+**Infrastructure Automation & IaC**
+- 🏗️ **Infrastructure-as-Code**: Terraform, CloudFormation, Ansible
+- 🔧 **Configuration Management**: Linux (Ubuntu, RHEL), system administration
+- 📊 **Monitoring & Observability**: CloudWatch, logging, infrastructure metrics
+
+**Databases & Data Systems**
+- 🗄️ **NoSQL**: Cassandra (CQL), Redis, MongoDB
+- 🗄️ **Relational**: PostgreSQL, MySQL
+- 📈 **Data Management**: Query optimization, backup strategies, replication
+
+**Programming & Scripting**
+- 🐍 **Python**: Infrastructure automation, network programming, data processing
+- 🐹 **Go**: Systems programming, cloud-native applications
+- 🖥️ **Bash/Shell**: System administration, deployment scripting
+- 💻 **VBA**: Excel automation for data analysis
+
+**Specializations**
+- ⚙️ **DevOps**: CI/CD pipelines, infrastructure automation, deployment strategies
+- 🔐 **Infrastructure Security**: RBAC implementation, access control, network segmentation
+- 📡 **Cloud Migration**: Strategy planning, VMware to cloud migrations, lift-and-shift projects
+- 🏭 **Infrastructure Discovery**: Design and development of infrastructure discovery tools
+
+---
+<br />
+
+### **Professional Experience Highlights**
+
+**Current Focus: Tata Elxsi**
+- Infrastructure modernization and cloud architecture design
+- Kubernetes deployment and optimization
+- 5G/4G network testing and validation
+- AWS cloud solutions and infrastructure planning
+
+**Previous Experience**
+- **VMware to OpenStack Migration**: Led infrastructure migration POC for large-scale deployments
+- **4G/5G Lab Setup**: Designed and configured 4G/5G test environments for protocol validation
+- **RBAC POC Development**: Implemented role-based access control systems for infrastructure
+- **OpenStack Deployment**: Deployed and managed OpenStack on Dell enterprise servers
+- **Infrastructure Discovery Tool**: Developed tools for automated infrastructure discovery and mapping
+
+---
+<br />
+
+<!--Trophies Section-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇꜱ 🏆</h2>
 <p align="center">
   <a href="https://github.com/sammedsc45/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sammedsc45&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
@@ -46,51 +102,27 @@
 </p>
 <br />
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛꜱ 📊</h2>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sammedsc45&theme=radical&show_icons=true" alt="GitHub Stats">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sammedsc45&theme=radical" alt="GitHub Streak">
+</p>
 
-<div align="center">
-    <a href="https://github.com/sammedsc45">
-        <img src="https://github-readme-stats.vercel.app/api?username=sammedsc45&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
-    </a>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sammedsc45&theme=radical" alt="Activity Graph">
+</p>
 <br />
-<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;" />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammedsc45&bg_color=0e2439&color=72e5c3&line=fe6e95&point=ffcc30&area=true&hide_border=false">
-</div>
 
 ---
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Iɴꜱᴘɪʀᴀᴛɪᴏɴ Oғ Tʜᴇ Dᴀʏ 🌟</h2>
+### **Let's Connect!**
 
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Adrian%20Holovaty&quote=Great%20code%20isn%E2%80%99t%20just%20written%2C%20it%E2%80%99s%20crafted%20with%20purpose%2C%20passion%2C%20and%20a%20desire%20to%20create%20something%20meaningful.&theme=dark&bg_color=0e2439&author_color=ffcc30">
+  <a href="https://linkedin.com/in/sammedchougule" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/sammedsc45" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:sammedchougule321@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<!--ENDS_HERE_QUOTE_CARD-->
+---
 
-<!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/sammed-chougule" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-  
-<a href="mailto:sammedchougule321@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<a href="https://x.com/SammedC94865641" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-</div>
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+*Last Updated: December 2025* | *Open to exciting opportunities in Cloud Architecture, DevOps, and 5G Network Engineering*
