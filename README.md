@@ -94,9 +94,9 @@
 ---
 <br />
 
-<p align="center">
-### **Let's Connect!**
-</p>
+
+<h3 align="center">**Let's Connect!**</h3>
+
 
 <p align="center">
   <a href="www.linkedin.com/in/sammed-chougule" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -106,4 +106,4 @@
 
 ---
 
-*Last Updated: December 2025* | *Open to exciting opportunities in Cloud Architecture, DevOps, and 5G Network Engineering*
+<p align="center">*Last Updated: December 2025 | *Open to exciting opportunities in Cloud Architecture, DevOps, and 5G Network Engineering*</p>Engineering*
