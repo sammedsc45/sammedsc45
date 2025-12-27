@@ -76,7 +76,7 @@
 ---
 <br />
 
-### **Professional Experience Highlights**
+### **Experience Highlights**
 
 **Current Focus: Tata Elxsi**
 - Infrastructure modernization and cloud architecture design
@@ -95,7 +95,7 @@
 <br />
 
 
-<h3 align="center">**Let's Connect!**</h3>
+<h3 align="center">🤝 Let's Connect! 🤝</h3>
 
 
 <p align="center">
@@ -106,4 +106,4 @@
 
 ---
 
-<p align="center">*Last Updated: December 2025 | *Open to exciting opportunities in Cloud Architecture, DevOps, and 5G Network Engineering*</p>Engineering*
+<p align="center">*Last Updated: December 2025 | *Open to exciting opportunities in Cloud Architecture, DevOps, and 5G Network Engineering*</p>
