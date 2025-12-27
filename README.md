@@ -94,8 +94,9 @@
 ---
 <br />
 
-
+<p align="center">
 ### **Let's Connect!**
+</p>
 
 <p align="center">
   <a href="www.linkedin.com/in/sammed-chougule" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
