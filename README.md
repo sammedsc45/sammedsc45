@@ -56,7 +56,7 @@
 - 📊 **Monitoring & Observability**: CloudWatch, logging, infrastructure metrics
 
 **Databases & Data Systems**
-- 🗄️ **NoSQL**: Cassandra (CQL), Redis, MongoDB
+- 🗄️ **NoSQL**: Redis, MongoDB
 - 🗄️ **Relational**: PostgreSQL, MySQL
 - 📈 **Data Management**: Query optimization, backup strategies, replication
 
@@ -64,7 +64,7 @@
 - 🐍 **Python**: Infrastructure automation, network programming, data processing
 - 🐹 **Go**: Systems programming, cloud-native applications
 - 🖥️ **Bash/Shell**: System administration, deployment scripting
-- 💻 **VBA**: Excel automation for data analysis
+- 🔍 **C/C++**: Systems programming, embedded systems, performance-critical applications - 💤 **Java**: Backend development, enterprise applications
 
 **Specializations**
 - ⚙️ **DevOps**: CI/CD pipelines, infrastructure automation, deployment strategies
