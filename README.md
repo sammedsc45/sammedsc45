@@ -94,26 +94,6 @@
 ---
 <br />
 
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇꜱ 🏆</h2>
-<p align="center">
-  <a href="https://github.com/sammedsc45/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sammedsc45&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛꜱ 📊</h2>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sammedsc45&theme=radical&show_icons=true" alt="GitHub Stats">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sammedsc45&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sammedsc45&theme=radical" alt="Activity Graph">
-</p>
-<br />
-
 ---
 
 ### **Let's Connect!**
