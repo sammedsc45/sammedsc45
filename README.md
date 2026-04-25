@@ -212,7 +212,7 @@ Welcome to my GitHub! I'm a <strong>Cloud-native Engineer</strong> at <strong>Ta
 
 <span><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_2025-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Docker-Foundations_Professional-2496ED?style=for-the-badge&logo=docker&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Kubernetes-Absolute_Beginners-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Kubernetes-KodeKloud-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Cisco-Networking_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Linux-Shell_Scripting-FCC624?style=for-the-badge&logo=linux&logoColor=black"></span>
 <span><img src="https://img.shields.io/badge/Infosys-Cyber_Security_Foundation-007CC3?style=for-the-badge&logo=infosys&logoColor=white"></span>
